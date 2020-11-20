@@ -1,3 +1,4 @@
+### R-4.8
 ### Compute the sum of a sequence with 2 ** n items
 ## Running time: O(nlog(n))
 ## Space usage: O(log(n))

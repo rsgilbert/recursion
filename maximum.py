@@ -1,5 +1,8 @@
 # Recursive program for finding the maximum element in a sequence
 
+### Analysis ####
+# Running time: O(n)
+# Space Usage: O(n)
 
 def maximum(S, pos = 0, maxi=None):
     if pos < len(S):
